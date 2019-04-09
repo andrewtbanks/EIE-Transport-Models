@@ -1,8 +1,11 @@
 # EIE-Transport-Models-
 Codes used to simulate contaminant transport during Engineered Injection and Extraction (EIE).
+
 These were developed as part of my masters thesis:
-          "Quantifying Stretching and Folding During enhanced Remediation of Contaminated Groundwater", 
-            at the University of Kansas, Department of Geology. 
+
+"Quantifying Stretching and Folding During enhanced Remediation of Contaminated Groundwater", 
+          
+at the University of Kansas, Department of Geology. 
             
 
 For information on the EIE model, consult one of the following works
