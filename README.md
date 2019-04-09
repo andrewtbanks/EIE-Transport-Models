@@ -5,9 +5,11 @@ These were developed as part of my masters thesis:
             at the University of Kansas, Department of Geology. 
             
 
-For information on the EIE model, consult the following works
+For information on the EIE model, consult one of the following works
 Piscopo, A. N., Mays, D. C., & Neupauer, R. M. (2013). Engineered Well Injection-Extraction Schemes to Enhance Reaction for Improved In Situ Remediation of Contaminated Groundwater. World Environmental and Water Resources Congress 2012. 
+
 Mays, D. C., & Neupauer, R. M. (2012). Plume spreading in groundwater by stretching and folding. Water Resources Research,48
+
 Neupauer, R. M., Meiss, J. D., & Mays, D. C. (2014). Chaotic advection and reaction during engineered injection and extraction in heterogeneous porous media. Water Resources Research,50(2), 1433-1447.
 
 
