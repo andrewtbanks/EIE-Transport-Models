@@ -3,7 +3,7 @@ Codes used to simulate contaminant transport during Engineered Injection and Ext
 
 These were developed as part of my masters thesis:
 
-"Quantifying Stretching and Folding During enhanced Remediation of Contaminated Groundwater", 
+"Quantifying Stretching and Folding During Enhanced Remediation of Contaminated Groundwater", 
           
 at the University of Kansas, Department of Geology. 
             
